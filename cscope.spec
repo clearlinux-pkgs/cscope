@@ -4,7 +4,7 @@
 #
 Name     : cscope
 Version  : 15.8b
-Release  : 4
+Release  : 5
 URL      : http://downloads.sourceforge.net/cscope/cscope-15.8b.tar.gz
 Source0  : http://downloads.sourceforge.net/cscope/cscope-15.8b.tar.gz
 Summary  : cscope is an interactive, screen-oriented tool that allows the user to browse through C source files for specified elements of code.
