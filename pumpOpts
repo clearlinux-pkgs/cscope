@@ -1,1 +1,2 @@
-allow_beta
+# allow beta to be potential upstream release
+special_releases = beta b
