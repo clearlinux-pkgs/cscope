@@ -1,5 +1,5 @@
 PKG_NAME := cscope
-URL := http://downloads.sourceforge.net/cscope/cscope-15.8b.tar.gz
-ARCHIVES :=
+URL = https://sourceforge.net/projects/cscope/files/cscope/v15.9/cscope-15.9.tar.gz
+ARCHIVES = 
 
 include ../common/Makefile.common
